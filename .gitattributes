@@ -1,0 +1,875 @@
+* text=auto !eol
+/.classpath -text
+/.fatjar -text
+/.project -text
+/IKVM.dll -text
+/build.xml -text
+/fmpp_fat.jar -text
+jar/fmpp_test.jar -text
+jar/fmpp_wzf.jar -text
+/java2dll.bat -text
+lib/ant-contrib-1.0b2.jar -text
+lib/bsh.jar -text
+lib/commons-beanutils-1.7.0.jar -text
+lib/commons-collections-3.2.jar -text
+lib/commons-lang-2.5.jar -text
+lib/commons-logging.jar -text
+lib/coupon_v4.jar -text
+lib/dom.jar -text
+lib/ezmorph-1.0.6.jar -text
+lib/freemarker-2.3.18.jar -text
+lib/jaxp.jar -text
+lib/json-lib-2.4-jdk15.jar -text
+lib/log4j-1.2.16.jar -text
+lib/oro.jar -text
+lib/resolver.jar -text
+lib/sax.jar -text
+resources/commons-logging.properties -text
+resources/fmpp.config -text
+resources/fmpp.properties -text
+resources/log4j.properties -text
+src/docs/LICENSE_ANT.txt -text svneol=unset#text/plain
+src/docs/LICENSE_FREEMARKER.txt -text svneol=unset#text/plain
+src/docs/LICENSE_ORO.txt -text svneol=unset#text/plain
+src/docs/LICENSE_RESOLVER.txt -text svneol=unset#text/plain
+src/docs/ant.html -text svneol=unset#text/plain
+src/docs/bsh.html -text svneol=unset#text/plain
+src/docs/checklinks_T3.ftl -text
+src/docs/commandline.html -text svneol=unset#text/plain
+src/docs/configfile.html -text svneol=unset#text/plain
+src/docs/dataloader.html -text svneol=unset#text/plain
+src/docs/datetimepattern.html -text svneol=unset#text/plain
+src/docs/examples/README.txt -text svneol=unset#text/plain
+src/docs/examples/ant/build.xml -text svneol=unset#text/plain
+src/docs/examples/ant/src/test.txt -text svneol=unset#text/plain
+src/docs/examples/ant2/build.xml -text svneol=unset#text/plain
+src/docs/examples/ant2/src/test.txt -text svneol=unset#text/plain
+src/docs/examples/ant3/build.xml -text svneol=unset#text/plain
+src/docs/examples/border/config.fmpp -text
+src/docs/examples/border/src/include/ignoredir.fmpp -text
+src/docs/examples/border/src/include/test.ftl -text
+src/docs/examples/border/src/test.c -text
+src/docs/examples/border/src/test.html -text svneol=unset#text/plain
+src/docs/examples/build.xml -text svneol=unset#text/plain
+src/docs/examples/capture/config.fmpp -text
+src/docs/examples/capture/src/include/ignoredir.fmpp -text
+src/docs/examples/capture/src/include/page.ftl -text
+src/docs/examples/capture/src/test.html -text svneol=unset#text/plain
+src/docs/examples/check_links/config.fmpp -text
+src/docs/examples/check_links/src/good_target.html -text svneol=unset#text/plain
+src/docs/examples/check_links/src/include/a.ftl -text
+src/docs/examples/check_links/src/include/ignoredir.fmpp -text
+src/docs/examples/check_links/src/index.html -text svneol=unset#text/plain
+src/docs/examples/csv/config.fmpp -text
+src/docs/examples/csv/src/data/ignoredir.fmpp -text
+src/docs/examples/csv/src/data/test.csv -text
+src/docs/examples/csv/src/test.html -text svneol=unset#text/plain
+src/docs/examples/eval/config.fmpp -text
+src/docs/examples/eval/src/test.html -text svneol=unset#text/plain
+src/docs/examples/img_dims/config.fmpp -text
+src/docs/examples/img_dims/src/falcon.png -text
+src/docs/examples/img_dims/src/index.html -text svneol=unset#text/plain
+src/docs/examples/inherit_config/README.txt -text svneol=unset#text/plain
+src/docs/examples/inherit_config/config.fmpp -text
+src/docs/examples/inherit_config/config_dark.fmpp -text
+src/docs/examples/inherit_config/config_red.fmpp -text
+src/docs/examples/inherit_config/src/index.html -text svneol=unset#text/plain
+src/docs/examples/local_data/config.fmpp -text
+src/docs/examples/local_data/src/index.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/1.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/1.html.bsh -text
+src/docs/examples/local_data/src/sub/2.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/3_j.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/3_j.html.bsh -text
+src/docs/examples/local_data/src/sub/food.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/sky/1.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/sky/2.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/sky/3_a.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/subsub/1.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub/subsub/2.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub2/1.html -text svneol=unset#text/plain
+src/docs/examples/local_data/src/sub2/2.html -text svneol=unset#text/plain
+src/docs/examples/multipage_list/config.fmpp -text
+src/docs/examples/multipage_list/src/result.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step1/config.fmpp -text
+src/docs/examples/qtour_step1/src/falcon.png -text
+src/docs/examples/qtour_step1/src/index.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step1/src/subdir/something.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step2/config.fmpp -text
+src/docs/examples/qtour_step2/src/data/ignoredir.fmpp -text
+src/docs/examples/qtour_step2/src/data/style.tdd -text
+src/docs/examples/qtour_step2/src/falcon.png -text
+src/docs/examples/qtour_step2/src/index.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step2/src/subdir/something.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step3/config.fmpp -text
+src/docs/examples/qtour_step3/src/data/birds.csv -text
+src/docs/examples/qtour_step3/src/data/ignoredir.fmpp -text
+src/docs/examples/qtour_step3/src/data/style.tdd -text
+src/docs/examples/qtour_step3/src/falcon.png -text
+src/docs/examples/qtour_step3/src/index.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step3/src/subdir/something.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step4/config.fmpp -text
+src/docs/examples/qtour_step4/src/bird.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step4/src/data/birds.csv -text
+src/docs/examples/qtour_step4/src/data/ignoredir.fmpp -text
+src/docs/examples/qtour_step4/src/data/style.tdd -text
+src/docs/examples/qtour_step4/src/falcon.png -text
+src/docs/examples/qtour_step4/src/index.html -text svneol=unset#text/plain
+src/docs/examples/qtour_step4/src/subdir/something.html -text svneol=unset#text/plain
+src/docs/examples/session/config.fmpp -text
+src/docs/examples/session/src/01_foo.html -text svneol=unset#text/plain
+src/docs/examples/session/src/02_bar.html -text svneol=unset#text/plain
+src/docs/examples/session/src/03_baaz.html -text svneol=unset#text/plain
+src/docs/examples/session/src/04_wombat.html -text svneol=unset#text/plain
+src/docs/examples/session/src/include/ignoredir.fmpp -text
+src/docs/examples/session/src/include/page.ftl -text
+src/docs/examples/session/src/index.html -text svneol=unset#text/plain
+src/docs/examples/tdd/config.fmpp -text
+src/docs/examples/tdd/src/data/ignoredir.fmpp -text
+src/docs/examples/tdd/src/data/test.tdd -text
+src/docs/examples/tdd/src/index.html -text svneol=unset#text/plain
+src/docs/examples/xml/config.fmpp -text
+src/docs/examples/xml/src/data/ignoredir.fmpp -text
+src/docs/examples/xml/src/data/test.xml -text svneol=unset#text/plain
+src/docs/examples/xml/src/test.html -text svneol=unset#text/plain
+src/docs/examples/xml2/config.fmpp -text
+src/docs/examples/xml2/src/data/ignoredir.fmpp -text
+src/docs/examples/xml2/src/data/manufacturers.xml -text svneol=unset#text/plain
+src/docs/examples/xml2/src/data/products.xml -text svneol=unset#text/plain
+src/docs/examples/xml2/src/index.html -text svneol=unset#text/plain
+src/docs/examples/xml2/src/product.html -text svneol=unset#text/plain
+src/docs/examples/xml_rendering/config.fmpp -text
+src/docs/examples/xml_rendering/src/bigwidget.xml -text svneol=unset#text/plain
+src/docs/examples/xml_rendering/src/example1.xml -text svneol=unset#text/plain
+src/docs/examples/xml_rendering/src/example2.xml -text svneol=unset#text/plain
+src/docs/examples/xml_rendering/src/index.html -text svneol=unset#text/plain
+src/docs/examples/xml_rendering/src/normalwidget.xml -text svneol=unset#text/plain
+src/docs/examples/xml_rendering/src/renderer/book.html -text svneol=unset#text/plain
+src/docs/examples/xml_rendering/src/renderer/ignoredir.fmpp -text
+src/docs/examples/xml_rendering/src/renderer/product.html -text svneol=unset#text/plain
+src/docs/examples/xml_rendering/src/smallwidget.xml -text svneol=unset#text/plain
+src/docs/examples/xml_try/config.fmpp -text
+src/docs/examples/xml_try/src/data/ignoredir.fmpp -text
+src/docs/examples/xml_try/src/data/test.xml -text svneol=unset#text/plain
+src/docs/examples/xml_try/src/index.html -text svneol=unset#text/plain
+src/docs/examples/xml_validating/config.fmpp -text
+src/docs/examples/xml_validating/dtds/catalog.xml -text svneol=unset#text/plain
+src/docs/examples/xml_validating/dtds/xhtml-lat1.ent -text svneol=unset#text/plain
+src/docs/examples/xml_validating/dtds/xhtml-special.ent -text svneol=unset#text/plain
+src/docs/examples/xml_validating/dtds/xhtml-symbol.ent -text svneol=unset#text/plain
+src/docs/examples/xml_validating/dtds/xhtml1-transitional.dtd -text svneol=unset#text/plain
+src/docs/examples/xml_validating/src/data/ignoredir.fmpp -text
+src/docs/examples/xml_validating/src/data/test.xhtml -text svneol=unset#text/plain
+src/docs/examples/xml_validating/src/test.txt -text svneol=unset#text/plain
+src/docs/faq.html -text svneol=unset#text/plain
+src/docs/ftl.html -text svneol=unset#text/plain
+src/docs/img/background.png -text
+src/docs/img/bug.png -text
+src/docs/img/contents.png -text
+src/docs/img/contents_gray.png -text
+src/docs/img/download.png -text
+src/docs/img/fmpparch.png -text
+src/docs/img/fmpptitle.png -text
+src/docs/img/home.png -text
+src/docs/img/next.png -text
+src/docs/img/next_gray.png -text
+src/docs/img/none.gif -text
+src/docs/img/poweredby_sq_simple.png -text
+src/docs/img/prev.png -text
+src/docs/img/prev_gray.png -text
+src/docs/img/qtour_step1.png -text
+src/docs/img/qtour_step1_src.png -text
+src/docs/img/qtour_step2.png -text
+src/docs/img/qtour_step4.png -text
+src/docs/img/reportbug.png -text
+src/docs/img/sflogo.png -text
+src/docs/img/underconstrucion.gif -text
+src/docs/include/ignoredir.fmpp -text
+src/docs/include/site.ftl -text
+src/docs/index.html -text svneol=unset#text/plain
+src/docs/installing.html -text svneol=unset#text/plain
+src/docs/knownproblems.html -text svneol=unset#text/plain
+src/docs/license.html -text svneol=unset#text/plain
+src/docs/manualtocs_T2.html -text svneol=unset#text/plain
+src/docs/overview.html -text svneol=unset#text/plain
+src/docs/pathpattern.html -text svneol=unset#text/plain
+src/docs/pphash.html -text svneol=unset#text/plain
+src/docs/properties.html -text svneol=unset#text/plain
+src/docs/qtour.html -text svneol=unset#text/plain
+src/docs/reportbug.html -text svneol=unset#text/plain
+src/docs/settings.html -text svneol=unset#text/plain
+src/docs/tdd.html -text svneol=unset#text/plain
+src/docs/tips.html -text svneol=unset#text/plain
+src/docs/versions.html -text svneol=unset#text/plain
+src/docs/writefrontend.html -text svneol=unset#text/plain
+src/java/fmpp/CommonUtil.java -text svneol=unset#text/plain
+src/java/fmpp/DataModelBuildingException.java -text svneol=unset#text/plain
+src/java/fmpp/Engine.java -text svneol=unset#text/plain
+src/java/fmpp/FmppFileOutputWriter.java -text svneol=unset#text/plain
+src/java/fmpp/FmppOutputWriter.java -text svneol=unset#text/plain
+src/java/fmpp/FmppTemplateLoader.java -text svneol=unset#text/plain
+src/java/fmpp/GenericProcessingException.java -text svneol=unset#text/plain
+src/java/fmpp/IllegalConfigurationException.java -text svneol=unset#text/plain
+src/java/fmpp/LocalDataBuilder.java -text svneol=unset#text/plain
+src/java/fmpp/ProcessingException.java -text svneol=unset#text/plain
+src/java/fmpp/ProgressListener.java -text svneol=unset#text/plain
+src/java/fmpp/TemplateDataModelBuilder.java -text svneol=unset#text/plain
+src/java/fmpp/TemplateEnvironment.java -text svneol=unset#text/plain
+src/java/fmpp/XmlDependentOps.java -text svneol=unset#text/plain
+src/java/fmpp/XmlDependentOpsImpl.java -text svneol=unset#text/plain
+src/java/fmpp/XmlRenderingConfiguration.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/AbstractTextDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/AntDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/AntProjectDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/AntPropertiesDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/AntPropertyDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/AntTaskDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/CsvDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/DateTimeDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/EvalDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/FileDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/HtmlUtilsDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/NowDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/PropertiesDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/SlicedTextDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/TddDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/TddSequenceDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/TextDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/XmlDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/XmlInfosetDataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/dataloaders/package.html -text svneol=unset#text/plain
+src/java/fmpp/localdatabuilders/BshLocalDataBuilder.java -text svneol=unset#text/plain
+src/java/fmpp/localdatabuilders/CachingLocalDataBuilder.java -text svneol=unset#text/plain
+src/java/fmpp/localdatabuilders/MapLocalDataBuilder.java -text svneol=unset#text/plain
+src/java/fmpp/localdatabuilders/TddHashLocalDataBuilder.java -text svneol=unset#text/plain
+src/java/fmpp/localdatabuilders/package.html -text svneol=unset#text/plain
+src/java/fmpp/models/AddTransform.java -text svneol=unset#text/plain
+src/java/fmpp/models/ClearTransform.java -text svneol=unset#text/plain
+src/java/fmpp/models/CopyWritableVariableMethod.java -text svneol=unset#text/plain
+src/java/fmpp/models/CsvSequence.java -text svneol=unset#text/plain
+src/java/fmpp/models/NewWritableHashMethod.java -text svneol=unset#text/plain
+src/java/fmpp/models/NewWritableSequenceMethod.java -text svneol=unset#text/plain
+src/java/fmpp/models/RemoveTransform.java -text svneol=unset#text/plain
+src/java/fmpp/models/SetTransform.java -text svneol=unset#text/plain
+src/java/fmpp/models/StringArraySequence.java -text svneol=unset#text/plain
+src/java/fmpp/models/TemplateModelArrayCollection.java -text svneol=unset#text/plain
+src/java/fmpp/models/TemplateModelListCollection.java -text svneol=unset#text/plain
+src/java/fmpp/models/TemplateModelListSequence.java -text svneol=unset#text/plain
+src/java/fmpp/models/TemplateModelUtils.java -text svneol=unset#text/plain
+src/java/fmpp/models/WritableHash.java -text svneol=unset#text/plain
+src/java/fmpp/models/WritableSequence.java -text svneol=unset#text/plain
+src/java/fmpp/models/WritableVariable.java -text svneol=unset#text/plain
+src/java/fmpp/models/package.html -text svneol=unset#text/plain
+src/java/fmpp/overview.html -text svneol=unset#text/plain
+src/java/fmpp/package.html -text svneol=unset#text/plain
+src/java/fmpp/progresslisteners/AntProgressListener.java -text svneol=unset#text/plain
+src/java/fmpp/progresslisteners/ConsoleProgressListener.java -text svneol=unset#text/plain
+src/java/fmpp/progresslisteners/LoggerProgressListener.java -text svneol=unset#text/plain
+src/java/fmpp/progresslisteners/StatisticsProgressListener.java -text svneol=unset#text/plain
+src/java/fmpp/progresslisteners/TerseConsoleProgressListener.java -text svneol=unset#text/plain
+src/java/fmpp/progresslisteners/package.html -text svneol=unset#text/plain
+src/java/fmpp/setting/FileWithConfigurationBase.java -text svneol=unset#text/plain
+src/java/fmpp/setting/FileWithSettingValue.java -text svneol=unset#text/plain
+src/java/fmpp/setting/SettingException.java -text svneol=unset#text/plain
+src/java/fmpp/setting/Settings.java -text svneol=unset#text/plain
+src/java/fmpp/setting/XmlDependentOps.java -text svneol=unset#text/plain
+src/java/fmpp/setting/XmlDependentOpsImpl.java -text svneol=unset#text/plain
+src/java/fmpp/setting/package.html -text svneol=unset#text/plain
+src/java/fmpp/tdd/DataLoader.java -text svneol=unset#text/plain
+src/java/fmpp/tdd/DataLoaderEvaluationEnvironment.java -text svneol=unset#text/plain
+src/java/fmpp/tdd/EvalException.java -text svneol=unset#text/plain
+src/java/fmpp/tdd/EvaluationEnvironment.java -text svneol=unset#text/plain
+src/java/fmpp/tdd/Fragment.java -text svneol=unset#text/plain
+src/java/fmpp/tdd/FunctionCall.java -text svneol=unset#text/plain
+src/java/fmpp/tdd/Interpreter.java -text svneol=unset#text/plain
+src/java/fmpp/tdd/TddUtil.java -text svneol=unset#text/plain
+src/java/fmpp/tdd/package.html -text svneol=unset#text/plain
+src/java/fmpp/test/AntTaskTest.java -text svneol=unset#text/plain
+src/java/fmpp/tools/AntTask.java -text svneol=unset#text/plain
+src/java/fmpp/tools/CommandLine.java -text svneol=unset#text/plain
+src/java/fmpp/tools/help.txt -text svneol=unset#text/plain
+src/java/fmpp/tools/package.html -text svneol=unset#text/plain
+src/java/fmpp/util/ArgsParser.java -text svneol=unset#text/plain
+src/java/fmpp/util/BorderedReader.java -text svneol=unset#text/plain
+src/java/fmpp/util/BugException.java -text svneol=unset#text/plain
+src/java/fmpp/util/DataLoaderUtil.java -text svneol=unset#text/plain
+src/java/fmpp/util/ExceptionCC.java -text svneol=unset#text/plain
+src/java/fmpp/util/FileUtil.java -text svneol=unset#text/plain
+src/java/fmpp/util/FreemarkerUtil.java -text svneol=unset#text/plain
+src/java/fmpp/util/InstallationException.java -text svneol=unset#text/plain
+src/java/fmpp/util/MiscUtil.java -text svneol=unset#text/plain
+src/java/fmpp/util/MultiListIterator.java -text svneol=unset#text/plain
+src/java/fmpp/util/NullOutputStream.java -text svneol=unset#text/plain
+src/java/fmpp/util/NullWriter.java -text svneol=unset#text/plain
+src/java/fmpp/util/RuntimeExceptionCC.java -text svneol=unset#text/plain
+src/java/fmpp/util/StringUtil.java -text svneol=unset#text/plain
+src/java/fmpp/util/package.html -text svneol=unset#text/plain
+src/java/fmpp/version.properties -text svneol=unset#text/plain
+src/java/imageinfo/ImageInfo.java -text svneol=unset#text/plain
+src/testsuite/README.txt -text svneol=unset#text/plain
+src/testsuite/java/fmpp/testsuite/ConsoleTestProgressListener.java -text svneol=unset#text/plain
+src/testsuite/java/fmpp/testsuite/SortAttrsTransform.java -text svneol=unset#text/plain
+src/testsuite/java/fmpp/testsuite/TestLocalDataBuilder.java -text svneol=unset#text/plain
+src/testsuite/java/fmpp/testsuite/TestProgressListener.java -text svneol=unset#text/plain
+src/testsuite/java/fmpp/testsuite/TestSuite.java -text svneol=unset#text/plain
+src/testsuite/java/fmpp/testsuite/TestXmlLocalDataBuilder.java -text svneol=unset#text/plain
+src/testsuite/java/fmpp/testsuite/TestXmlLocalDataBuilder2.java -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_off/config.fmpp -text
+src/testsuite/projects/always_create_dirs_off/src/a/r.txt -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_off/src/b/c/q/q2/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_off/src/b/c/x/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_off/src/b/c/x/x.txt -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_off/src/b/c/y/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_off/src/c/d/createdir.fmpp -text
+src/testsuite/projects/always_create_dirs_off/src/d/createdir.fmpp -text
+src/testsuite/projects/always_create_dirs_off/src/d/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_off/src/data/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_off/src/data/test.xml -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_off/src/sub/t3.txt -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_off/src/t.txt -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_on/config.fmpp -text
+src/testsuite/projects/always_create_dirs_on/src/a/r.txt -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_on/src/b/c/q/q2/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_on/src/b/c/x/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_on/src/b/c/x/x.txt -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_on/src/b/c/y/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_on/src/c/d/createdir.fmpp -text
+src/testsuite/projects/always_create_dirs_on/src/d/createdir.fmpp -text
+src/testsuite/projects/always_create_dirs_on/src/d/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_on/src/data/ignoredir.fmpp -text
+src/testsuite/projects/always_create_dirs_on/src/data/test.xml -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_on/src/sub/t3.txt -text svneol=unset#text/plain
+src/testsuite/projects/always_create_dirs_on/src/t.txt -text svneol=unset#text/plain
+src/testsuite/projects/basic_usecase/fmpp.cfg -text
+src/testsuite/projects/basic_usecase/src/data/ignoredir.fmpp -text
+src/testsuite/projects/basic_usecase/src/data/style.properties -text svneol=unset#text/plain
+src/testsuite/projects/basic_usecase/src/include/ignoredir.fmpp -text
+src/testsuite/projects/basic_usecase/src/include/page.ftl -text
+src/testsuite/projects/basic_usecase/src/index.html -text svneol=unset#text/plain
+src/testsuite/projects/basic_usecase/src/mi.png -text
+src/testsuite/projects/basic_usecase/src/sub/rattrah.html -text svneol=unset#text/plain
+src/testsuite/projects/basic_usecase/src/sub/subsub/rattrahad.html -text svneol=unset#text/plain
+src/testsuite/projects/borders/config.fmpp -text
+src/testsuite/projects/borders/src/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/borders/src/1.x -text
+src/testsuite/projects/borders/src/1.y -text
+src/testsuite/projects/borders/src/sub/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/borders/src/sub/1.x -text
+src/testsuite/projects/borders/src/sub/1.y -text
+src/testsuite/projects/borders/src/sub/foo/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/cfg_base/b1/src/index.html -text svneol=unset#text/plain
+src/testsuite/projects/cfg_base/b1/src/sub/rattrah.html -text svneol=unset#text/plain
+src/testsuite/projects/cfg_base/cfg2/fmpp.cfg -text
+src/testsuite/projects/cfg_base/fmpp.cfg -text
+src/testsuite/projects/cfg_base/foo/data/style.properties -text svneol=unset#text/plain
+src/testsuite/projects/cfg_inheritance/cfg2/fmpp2.cfg -text
+src/testsuite/projects/cfg_inheritance/fmpp.cfg -text
+src/testsuite/projects/cfg_inheritance/fmpp3.cfg -text
+src/testsuite/projects/cfg_inheritance/src/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/cfg_inheritance/src/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/cfg_inheritance/src/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/cfg_inheritance/src/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/cfg_inheritance/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_csv/config.fmpp -text
+src/testsuite/projects/dl_csv/src/data/ignoredir.fmpp -text
+src/testsuite/projects/dl_csv/src/data/test-utf8-bom.csv -text
+src/testsuite/projects/dl_csv/src/data/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_csv/src/data/test2.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_csv/src/data/test3.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_csv/src/data/test4.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_csv/src/data/test5.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_csv/src/test.html -text svneol=unset#text/plain
+src/testsuite/projects/dl_eval/config.fmpp -text
+src/testsuite/projects/dl_eval/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_get/config.fmpp -text
+src/testsuite/projects/dl_get/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/config.fmpp -text
+src/testsuite/projects/dl_slicedtext/src/data/empty.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/ignoredir.fmpp -text
+src/testsuite/projects/dl_slicedtext/src/data/t1.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t2.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t3.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t4.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t5.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t6.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t6cr.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t6lf.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t7.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t8.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/data/t9.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_slicedtext/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_text/config.fmpp -text
+src/testsuite/projects/dl_text/src/data/1-utf8-bom.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_text/src/data/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/dl_text/src/data/ignoredir.fmpp -text
+src/testsuite/projects/dl_text/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/encoding/config.fmpp -text
+src/testsuite/projects/encoding/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/encoding/src/test2.txt -text svneol=unset#text/plain
+src/testsuite/projects/ex_border/fmpp.cfg -text
+src/testsuite/projects/ex_capture/fmpp.cfg -text
+src/testsuite/projects/ex_check_links/fmpp.cfg -text
+src/testsuite/projects/ex_csv/fmpp.cfg -text
+src/testsuite/projects/ex_img_dims/config.fmpp -text
+src/testsuite/projects/ex_local_data/config.fmpp -text
+src/testsuite/projects/ex_multipage_list/config.fmpp -text
+src/testsuite/projects/ex_qtour_step1/fmpp.cfg -text
+src/testsuite/projects/ex_qtour_step2/fmpp.cfg -text
+src/testsuite/projects/ex_qtour_step3/fmpp.cfg -text
+src/testsuite/projects/ex_qtour_step4/fmpp.cfg -text
+src/testsuite/projects/ex_session/fmpp.cfg -text
+src/testsuite/projects/ex_tdd/fmpp.cfg -text
+src/testsuite/projects/ex_xml/fmpp.cfg -text
+src/testsuite/projects/ex_xml2/fmpp.cfg -text
+src/testsuite/projects/ex_xml_rendering/fmpp.cfg -text
+src/testsuite/projects/ex_xml_validating/config.fmpp -text
+src/testsuite/projects/filename/config.fmpp -text
+src/testsuite/projects/filename/src/at -text
+src/testsuite/projects/filename/src/at.foo -text
+src/testsuite/projects/filename/src/at.foo.bar -text
+src/testsuite/projects/filename/src/btt -text
+src/testsuite/projects/filename/src/btt.x -text
+src/testsuite/projects/filename/src/cxx -text
+src/testsuite/projects/filename/src/cxx.x -text
+src/testsuite/projects/filename/src/d.bat.man -text
+src/testsuite/projects/filename/src/d.spider.man -text
+src/testsuite/projects/filename/src/et.spider -text
+src/testsuite/projects/filename/src/f1.qw -text
+src/testsuite/projects/filename/src/f2.wq -text
+src/testsuite/projects/filename/src/gxxxxx -text
+src/testsuite/projects/freemarker_links/config.fmpp -text
+src/testsuite/projects/freemarker_links/inc1/test1.ftl -text
+src/testsuite/projects/freemarker_links/inc1/test2.ftl -text
+src/testsuite/projects/freemarker_links/inc1/test5.ftl -text
+src/testsuite/projects/freemarker_links/inc2/godzilla.ftl -text
+src/testsuite/projects/freemarker_links/inc2/test2.ftl -text
+src/testsuite/projects/freemarker_links/inc2/test3.ftl -text
+src/testsuite/projects/freemarker_links/inc2/test5.ftl -text
+src/testsuite/projects/freemarker_links/inc2/test6.ftl -text
+src/testsuite/projects/freemarker_links/inherited.fmpp -text
+src/testsuite/projects/freemarker_links/src/@inc/ignoredir.fmpp -text
+src/testsuite/projects/freemarker_links/src/@inc/test1.ftl -text
+src/testsuite/projects/freemarker_links/src/@test4 -text
+src/testsuite/projects/freemarker_links/src/sub/t.txt -text svneol=unset#text/plain
+src/testsuite/projects/freemarker_links/src/t.txt -text svneol=unset#text/plain
+src/testsuite/projects/htmlutils/config.fmpp -text
+src/testsuite/projects/htmlutils/src/test.bmp -text
+src/testsuite/projects/htmlutils/src/test.gif -text
+src/testsuite/projects/htmlutils/src/test.html -text svneol=unset#text/plain
+src/testsuite/projects/htmlutils/src/test.jpg -text
+src/testsuite/projects/htmlutils/src/test.png -text
+src/testsuite/projects/localdata/build.xml -text svneol=unset#text/plain
+src/testsuite/projects/localdata/config.fmpp -text
+src/testsuite/projects/localdata/inheritedcfg.fmpp -text
+src/testsuite/projects/localdata/src/1.html -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/1_x.html -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/1_z.html -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/1_z.htmlx -text
+src/testsuite/projects/localdata/src/2.htm -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/2_y.htm -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/data/ignoredir.fmpp -text
+src/testsuite/projects/localdata/src/data/y.properties -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/sub/1.html -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/sub/1_x.html -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/sub/1_z.html -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/sub/1_z.htmlx -text
+src/testsuite/projects/localdata/src/sub/2.htm -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/sub/2_y.htm -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/sub/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/localdata/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/locale/config.fmpp -text
+src/testsuite/projects/locale/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/nested_output/config.fmpp -text
+src/testsuite/projects/nested_output/src/nestings.txt -text svneol=unset#text/plain
+src/testsuite/projects/nested_output/src/nestings2.txt -text svneol=unset#text/plain
+src/testsuite/projects/objectwrapper1/config.fmpp -text
+src/testsuite/projects/objectwrapper1/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/objectwrapper2/config.fmpp -text
+src/testsuite/projects/objectwrapper2/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/config.fmpp -text
+src/testsuite/projects/pathpattern1/src/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/sub/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/sub/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/sub/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/sub/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/sub/subsub/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/sub/subsub/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/sub/subsub/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern1/src/sub/subsub/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/config.fmpp -text
+src/testsuite/projects/pathpattern2/src/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/subsub/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/subsub/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/subsub/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/subsub/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/subsub/subsubsub/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/subsub/subsubsub/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/subsub/subsubsub/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/pathpattern2/src/sub/subsub/subsubsub/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths/config.fmpp -text
+src/testsuite/projects/relative_paths/src/include/ignoredir.fmpp -text
+src/testsuite/projects/relative_paths/src/include/s.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths/src/include/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths/src/s.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths/src/sub/s.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths/src/sub/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths2/config.fmpp -text
+src/testsuite/projects/relative_paths2/src/sub/subsub/test.inc -text
+src/testsuite/projects/relative_paths2/src/sub/subsub/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths2/src/sub/test.inc -text
+src/testsuite/projects/relative_paths2/src/sub/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/relative_paths2/src/test.inc -text
+src/testsuite/projects/relative_paths2/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/rename/config.fmpp -text
+src/testsuite/projects/rename/src/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/rename/src/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/rename/src/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/rename/src/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/rename/src/5 -text
+src/testsuite/projects/rename/src/6.foo.txt -text svneol=unset#text/plain
+src/testsuite/projects/rename/src/7.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/args.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/fmpp.cfg -text
+src/testsuite/projects/sources/fmpp2.cfg -text
+src/testsuite/projects/sources/src/1.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/src/2.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/src/3.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/src/4.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/src/5.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/src/6.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/src/sub/a.txt -text svneol=unset#text/plain
+src/testsuite/projects/sources/src/sub/b.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_1/config.fmpp -text
+src/testsuite/projects/tag_syntax_1/src/test1.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_1/src/test2.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_1/src/test3.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_2/config.fmpp -text
+src/testsuite/projects/tag_syntax_2/src/test1.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_2/src/test2.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_2/src/test3.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_3/config.fmpp -text
+src/testsuite/projects/tag_syntax_3/src/test1a.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_3/src/test1b.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_3/src/test2.txt -text svneol=unset#text/plain
+src/testsuite/projects/tag_syntax_3/src/test3.txt -text svneol=unset#text/plain
+src/testsuite/projects/tdd/config.fmpp -text
+src/testsuite/projects/tdd/src/comments.txt -text svneol=unset#text/plain
+src/testsuite/projects/tdd/src/data/comment1.tdd -text
+src/testsuite/projects/tdd/src/data/comment2.tdd -text
+src/testsuite/projects/tdd/src/data/encoding.tdd -text
+src/testsuite/projects/tdd/src/data/hash.tdd -text
+src/testsuite/projects/tdd/src/data/hashes.tdd -text
+src/testsuite/projects/tdd/src/data/ignoredir.fmpp -text
+src/testsuite/projects/tdd/src/data/nestedscalars.tdd -text
+src/testsuite/projects/tdd/src/data/scalars.tdd -text
+src/testsuite/projects/tdd/src/data/seqmode.tdd -text
+src/testsuite/projects/tdd/src/encoding.txt -text svneol=unset#text/plain
+src/testsuite/projects/tdd/src/hashes.txt -text svneol=unset#text/plain
+src/testsuite/projects/tdd/src/include/common.ftl -text
+src/testsuite/projects/tdd/src/include/ignoredir.fmpp -text
+src/testsuite/projects/tdd/src/nestedscalars.txt -text svneol=unset#text/plain
+src/testsuite/projects/tdd/src/scalars.txt -text svneol=unset#text/plain
+src/testsuite/projects/tdd/src/seqmode.txt -text svneol=unset#text/plain
+src/testsuite/projects/terminated_output/config.fmpp -text
+src/testsuite/projects/terminated_output/src/correct.html -text svneol=unset#text/plain
+src/testsuite/projects/terminated_output/src/flushedzero.html -text svneol=unset#text/plain
+src/testsuite/projects/terminated_output/src/nestings.html -text svneol=unset#text/plain
+src/testsuite/projects/terminated_output/src/one.html -text svneol=unset#text/plain
+src/testsuite/projects/terminated_output/src/zero.html -text svneol=unset#text/plain
+src/testsuite/projects/url_escaping/config.fmpp -text
+src/testsuite/projects/url_escaping/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/url_escaping2/config.fmpp -text
+src/testsuite/projects/url_escaping2/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/writable_hash/config.fmpp -text
+src/testsuite/projects/writable_hash/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/writable_sequence/config.fmpp -text
+src/testsuite/projects/writable_sequence/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/xinclude/config.fmpp -text
+src/testsuite/projects/xinclude/src/data/ignoredir.fmpp -text
+src/testsuite/projects/xinclude/src/data/part1.xml -text svneol=unset#text/plain
+src/testsuite/projects/xinclude/src/data/part2.xml -text svneol=unset#text/plain
+src/testsuite/projects/xinclude/src/data/test.xml -text svneol=unset#text/plain
+src/testsuite/projects/xinclude/src/index.html -text svneol=unset#text/plain
+src/testsuite/projects/xml_catalogs/config.fmpp -text
+src/testsuite/projects/xml_catalogs/dtds/catalog -text
+src/testsuite/projects/xml_catalogs/dtds/catalog2 -text
+src/testsuite/projects/xml_catalogs/dtds/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/xml_catalogs/dtds/test2.txt -text svneol=unset#text/plain
+src/testsuite/projects/xml_catalogs/dtds/xhtml-lat1.ent -text svneol=unset#text/plain
+src/testsuite/projects/xml_catalogs/dtds/xhtml-special.ent -text svneol=unset#text/plain
+src/testsuite/projects/xml_catalogs/dtds/xhtml-symbol.ent -text svneol=unset#text/plain
+src/testsuite/projects/xml_catalogs/dtds/xhtml1-transitional.dtd -text svneol=unset#text/plain
+src/testsuite/projects/xml_catalogs/src/data/ignoredir.fmpp -text
+src/testsuite/projects/xml_catalogs/src/data/test.xhtml -text svneol=unset#text/plain
+src/testsuite/projects/xml_catalogs/src/test.txt -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/config.fmpp -text
+src/testsuite/projects/xml_rendering/dtds/catalog.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/dtds/test.dtd -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/dtds/test2.dtd -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/inherited.fmpp -text
+src/testsuite/projects/xml_rendering/src/a.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/b.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/c.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/copy.txt -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/d.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/e.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/f.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/g.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/h.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/ldb.xml -text svneol=unset#text/plain
+src/testsuite/projects/xml_rendering/src/renderer/ignoredir.fmpp -text
+src/testsuite/projects/xml_rendering/src/renderer/ldb.ftl -text
+src/testsuite/projects/xml_rendering/src/renderer/test1.ftl -text
+src/testsuite/projects/xml_rendering/src/renderer/test2.ftl -text
+src/testsuite/projects/xml_rendering/src/renderer/test3.ftl -text
+src/testsuite/projects/xml_rendering/src/renderer/test4.ftl -text
+src/testsuite/projects/xml_rendering/src/renderer/test5.ftl -text
+src/testsuite/projects/xml_rendering/src/renderer/test6.ftl -text
+src/testsuite/references/always_create_dirs_off/sub/t3.txt -text svneol=unset#text/plain
+src/testsuite/references/always_create_dirs_off/t.txt -text svneol=unset#text/plain
+src/testsuite/references/always_create_dirs_on/sub/t3.txt -text svneol=unset#text/plain
+src/testsuite/references/always_create_dirs_on/t.txt -text svneol=unset#text/plain
+src/testsuite/references/basic_usecase/index.html -text svneol=unset#text/plain
+src/testsuite/references/basic_usecase/mi.png -text
+src/testsuite/references/basic_usecase/sub/rattrah.html -text svneol=unset#text/plain
+src/testsuite/references/basic_usecase/sub/subsub/rattrahad.html -text svneol=unset#text/plain
+src/testsuite/references/borders/1.txt -text svneol=unset#text/plain
+src/testsuite/references/borders/1.x -text
+src/testsuite/references/borders/1.y -text
+src/testsuite/references/borders/sub/1.txt -text svneol=unset#text/plain
+src/testsuite/references/borders/sub/1.x -text
+src/testsuite/references/borders/sub/1.y -text
+src/testsuite/references/borders/sub/foo/1.txt -text svneol=unset#text/plain
+src/testsuite/references/cfg_base/index.html -text svneol=unset#text/plain
+src/testsuite/references/cfg_base/sub/rattrah.html -text svneol=unset#text/plain
+src/testsuite/references/cfg_inheritance/1.txt -text svneol=unset#text/plain
+src/testsuite/references/cfg_inheritance/2.txt -text svneol=unset#text/plain
+src/testsuite/references/cfg_inheritance/3.txt -text svneol=unset#text/plain
+src/testsuite/references/cfg_inheritance/4.txt -text svneol=unset#text/plain
+src/testsuite/references/cfg_inheritance/test.txt -text svneol=unset#text/plain
+src/testsuite/references/dl_csv/test.html -text svneol=unset#text/plain
+src/testsuite/references/dl_eval/test.txt -text svneol=unset#text/plain
+src/testsuite/references/dl_get/test.txt -text svneol=unset#text/plain
+src/testsuite/references/dl_slicedtext/test.txt -text svneol=unset#text/plain
+src/testsuite/references/dl_text/test.txt -text svneol=unset#text/plain
+src/testsuite/references/encoding/test.txt -text svneol=unset#text/plain
+src/testsuite/references/encoding/test2.txt -text svneol=unset#text/plain
+src/testsuite/references/encoding/test2_iso-8859-1.txt -text svneol=unset#text/plain
+src/testsuite/references/encoding/text_UTF-8_2.txt -text svneol=unset#text/plain
+src/testsuite/references/encoding/text_iso-8859-2.txt -text svneol=unset#text/plain
+src/testsuite/references/encoding/text_utf-16.txt -text
+src/testsuite/references/ex_border/test.c.html -text svneol=unset#text/plain
+src/testsuite/references/ex_border/test.html -text svneol=unset#text/plain
+src/testsuite/references/ex_capture/test.html -text svneol=unset#text/plain
+src/testsuite/references/ex_check_links/good_target.html -text svneol=unset#text/plain
+src/testsuite/references/ex_check_links/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_csv/test.html -text svneol=unset#text/plain
+src/testsuite/references/ex_img_dims/falcon.png -text
+src/testsuite/references/ex_img_dims/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/3_j.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/food.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/sky/1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/sky/2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/sky/3_a.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/subsub/1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub/subsub/2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub2/1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_local_data/sub2/2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_multipage_list/result1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_multipage_list/result2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_multipage_list/result3.html -text svneol=unset#text/plain
+src/testsuite/references/ex_multipage_list/result4.html -text svneol=unset#text/plain
+src/testsuite/references/ex_multipage_list/result5.html -text svneol=unset#text/plain
+src/testsuite/references/ex_multipage_list/result6.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step1/falcon.png -text
+src/testsuite/references/ex_qtour_step1/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step1/subdir/something.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step2/falcon.png -text
+src/testsuite/references/ex_qtour_step2/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step2/subdir/something.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step3/falcon.png -text
+src/testsuite/references/ex_qtour_step3/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step3/subdir/something.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step4/arctic-tern.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step4/falcon.png -text
+src/testsuite/references/ex_qtour_step4/house-sparrow.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step4/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step4/sakeret.html -text svneol=unset#text/plain
+src/testsuite/references/ex_qtour_step4/subdir/something.html -text svneol=unset#text/plain
+src/testsuite/references/ex_session/01_foo.html -text svneol=unset#text/plain
+src/testsuite/references/ex_session/02_bar.html -text svneol=unset#text/plain
+src/testsuite/references/ex_session/03_baaz.html -text svneol=unset#text/plain
+src/testsuite/references/ex_session/04_wombat.html -text svneol=unset#text/plain
+src/testsuite/references/ex_session/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_tdd/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml/test.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml2/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml2/product_1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml2/product_2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml2/product_3.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml2/product_4.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/bigwidget.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_chapter_2_1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_chapter_2_2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_chapter_3_1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_chapter_3_2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_chapter_3_3.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_part_1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_part_2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example1_part_3.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example2_chapter_2_1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example2_index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example2_part_1.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/example2_part_2.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/index.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/normalwidget.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_rendering/smallwidget.html -text svneol=unset#text/plain
+src/testsuite/references/ex_xml_validating/test.txt -text svneol=unset#text/plain
+src/testsuite/references/filename/a -text
+src/testsuite/references/filename/a.foo -text
+src/testsuite/references/filename/a.foo.bar -text
+src/testsuite/references/filename/bt -text
+src/testsuite/references/filename/bt.x -text
+src/testsuite/references/filename/c -text
+src/testsuite/references/filename/c.x -text
+src/testsuite/references/filename/d -text
+src/testsuite/references/filename/d.pok -text
+src/testsuite/references/filename/e -text
+src/testsuite/references/filename/f1.wq -text
+src/testsuite/references/filename/f2.qw -text
+src/testsuite/references/filename/gxx -text
+src/testsuite/references/freemarker_links/@test4 -text
+src/testsuite/references/freemarker_links/sub/t.txt -text svneol=unset#text/plain
+src/testsuite/references/freemarker_links/t.txt -text svneol=unset#text/plain
+src/testsuite/references/htmlutils/test.bmp -text
+src/testsuite/references/htmlutils/test.gif -text
+src/testsuite/references/htmlutils/test.html -text svneol=unset#text/plain
+src/testsuite/references/htmlutils/test.jpg -text
+src/testsuite/references/htmlutils/test.png -text
+src/testsuite/references/localdata/1.html -text svneol=unset#text/plain
+src/testsuite/references/localdata/1_x.html -text svneol=unset#text/plain
+src/testsuite/references/localdata/1_z.html -text svneol=unset#text/plain
+src/testsuite/references/localdata/1_z.htmlx -text
+src/testsuite/references/localdata/2.htm -text svneol=unset#text/plain
+src/testsuite/references/localdata/2_y.htm -text svneol=unset#text/plain
+src/testsuite/references/localdata/sub/1.html -text svneol=unset#text/plain
+src/testsuite/references/localdata/sub/1_x.html -text svneol=unset#text/plain
+src/testsuite/references/localdata/sub/1_z.html -text svneol=unset#text/plain
+src/testsuite/references/localdata/sub/1_z.htmlx -text
+src/testsuite/references/localdata/sub/2.htm -text svneol=unset#text/plain
+src/testsuite/references/localdata/sub/2_y.htm -text svneol=unset#text/plain
+src/testsuite/references/localdata/sub/test.txt -text svneol=unset#text/plain
+src/testsuite/references/localdata/test.txt -text svneol=unset#text/plain
+src/testsuite/references/locale/test.txt -text svneol=unset#text/plain
+src/testsuite/references/nested_output/n0.txt -text svneol=unset#text/plain
+src/testsuite/references/nested_output/n1.txt -text svneol=unset#text/plain
+src/testsuite/references/nested_output/n2.1.txt -text svneol=unset#text/plain
+src/testsuite/references/nested_output/n2.txt -text svneol=unset#text/plain
+src/testsuite/references/nested_output/n3.txt -text svneol=unset#text/plain
+src/testsuite/references/nested_output/nestings2.txt -text svneol=unset#text/plain
+src/testsuite/references/objectwrapper1/test.txt -text svneol=unset#text/plain
+src/testsuite/references/objectwrapper2/test.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/1.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/2.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/3.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/4.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/sub/1.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/sub/2.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/sub/3.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/sub/4.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/sub/subsub/1.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/sub/subsub/2.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/sub/subsub/3.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern1/sub/subsub/4.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/1.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/2.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/3.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/4.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/1.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/2.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/3.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/4.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/subsub/1.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/subsub/2.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/subsub/3.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/subsub/4.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/subsub/subsubsub/1.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/subsub/subsubsub/2.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/subsub/subsubsub/3.txt -text svneol=unset#text/plain
+src/testsuite/references/pathpattern2/sub/subsub/subsubsub/4.txt -text svneol=unset#text/plain
+src/testsuite/references/relative_paths/s.txt -text svneol=unset#text/plain
+src/testsuite/references/relative_paths/sub/s.txt -text svneol=unset#text/plain
+src/testsuite/references/relative_paths/sub/test.txt -text svneol=unset#text/plain
+src/testsuite/references/relative_paths/test.txt -text svneol=unset#text/plain
+src/testsuite/references/relative_paths2/sub/subsub/test.txt -text svneol=unset#text/plain
+src/testsuite/references/relative_paths2/sub/test.txt -text svneol=unset#text/plain
+src/testsuite/references/relative_paths2/test.txt -text svneol=unset#text/plain
+src/testsuite/references/rename/4.rtxt -text
+src/testsuite/references/rename/5.rtxt -text
+src/testsuite/references/rename/6.foo.rtxt -text
+src/testsuite/references/rename/r/3.txt -text svneol=unset#text/plain
+src/testsuite/references/rename/r1.txt -text svneol=unset#text/plain
+src/testsuite/references/rename/r2.txt -text svneol=unset#text/plain
+src/testsuite/references/rename/r7.rtxt -text
+src/testsuite/references/sources/1.txt -text svneol=unset#text/plain
+src/testsuite/references/sources/2.txt -text svneol=unset#text/plain
+src/testsuite/references/sources/3.txt -text svneol=unset#text/plain
+src/testsuite/references/sources/4.txt -text svneol=unset#text/plain
+src/testsuite/references/sources/6.txt -text svneol=unset#text/plain
+src/testsuite/references/sources/sub/a.txt -text svneol=unset#text/plain
+src/testsuite/references/sources/sub/b.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_1/test1.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_1/test2.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_1/test3.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_2/test1.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_2/test2.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_2/test3.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_3/test1a.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_3/test1b.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_3/test2.txt -text svneol=unset#text/plain
+src/testsuite/references/tag_syntax_3/test3.txt -text svneol=unset#text/plain
+src/testsuite/references/tdd/comments.txt -text svneol=unset#text/plain
+src/testsuite/references/tdd/encoding.txt -text svneol=unset#text/plain
+src/testsuite/references/tdd/hashes.txt -text svneol=unset#text/plain
+src/testsuite/references/tdd/nestedscalars.txt -text svneol=unset#text/plain
+src/testsuite/references/tdd/scalars.txt -text svneol=unset#text/plain
+src/testsuite/references/tdd/seqmode.txt -text svneol=unset#text/plain
+src/testsuite/references/terminated_output/correct.html -text svneol=unset#text/plain
+src/testsuite/references/terminated_output/flushedzero.html -text svneol=unset#text/plain
+src/testsuite/references/terminated_output/n1.txt -text svneol=unset#text/plain
+src/testsuite/references/terminated_output/n2.txt -text svneol=unset#text/plain
+src/testsuite/references/terminated_output/n3.txt -text svneol=unset#text/plain
+src/testsuite/references/terminated_output/nZero.txt -text svneol=unset#text/plain
+src/testsuite/references/terminated_output/nestings.html -text svneol=unset#text/plain
+src/testsuite/references/terminated_output/one.html -text svneol=unset#text/plain
+src/testsuite/references/url_escaping/test.txt -text svneol=unset#text/plain
+src/testsuite/references/url_escaping2/test.txt -text svneol=unset#text/plain
+src/testsuite/references/writable_hash/test.txt -text svneol=unset#text/plain
+src/testsuite/references/writable_sequence/test.txt -text svneol=unset#text/plain
+src/testsuite/references/xinclude/index.html -text svneol=unset#text/plain
+src/testsuite/references/xml_catalogs/test.txt -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/a.xml -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/b.xml -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/c.xml -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/copy.txt -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/d.xml -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/e.xml -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/f.xml -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/g.txt -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/h.txt -text svneol=unset#text/plain
+src/testsuite/references/xml_rendering/ldb.xml -text svneol=unset#text/plain
