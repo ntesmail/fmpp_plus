@@ -649,7 +649,7 @@ public class TemplateEnvironment {
                     		String sKey = (String) key;
 
                     		try{
-                    			CommonUtil.putStaticModel(localData, Class.forName(p.getProperty(sKey).toString()));
+                    			CommonUtil.putStaticModel(localData, sKey, Class.forName(p.getProperty(sKey).toString()));
                     		}catch(ClassNotFoundException ex) {
                     			log.error(p.getProperty(sKey).toString() + " : not found", ex);
                     		}

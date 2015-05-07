@@ -15,10 +15,10 @@ public final class CommonUtil {
 	     * @return
 	     */
 	    @SuppressWarnings({ "unchecked", "rawtypes" })
-	    public static Object putStaticModel(Map model, Class clz) {
+	    public static Object putStaticModel(Map model, String name, Class clz) {
 	        BeansWrapper wrapper = BeansWrapper.getDefaultInstance();
 	        try {
-	            model.put(clz.getSimpleName(),
+	            model.put(name,
 	                    wrapper.getStaticModels().get(clz.getName()));
 	        } catch (TemplateModelException e) {
 	            e.printStackTrace();
